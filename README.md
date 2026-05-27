@@ -1,11 +1,11 @@
 # BOCES IT Service Ticket Analysis
 
-This repo contains the research paper, poster, and sample data for a semester-long analytics project analyzing IT service desk tickets across two school districts served by BOCES (Boards of Cooperative Educational Services). The project used Power BI to surface operational inefficiencies and deliver actionable recommendations to district stakeholders.
+This repo contains the research paper and poster for a semester-long analytics project analyzing IT service desk tickets across two school districts served by BOCES (Boards of Cooperative Educational Services). The project used Power BI to surface operational inefficiencies and deliver actionable recommendations to district stakeholders.
 
 Here are the different components:
 
-- [Research Paper (PDF)](./BOCES_Group1_Research_Paper.pdf): Full methodology, findings, and policy recommendations
-- [Project Poster (PDF)](./BOCES_Group1_Poster.pdf): Visual summary of key insights presented at final showcase
+- [Research Paper](./BOCES_Group1_Research_Paper.pdf): Full methodology, findings, and policy recommendations
+- [Project Poster](./BOCES_Group1_Poster.pdf): Visual summary of key insights presented at final showcase
 
 ## Overview
 
